@@ -3,6 +3,9 @@ tutorials
 
 Tutorials for data science.
 
+# First Things First!
+Activate the env: source activate datascituts
+
 Project Organization
 ------------
 
